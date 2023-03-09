@@ -1,4 +1,4 @@
-rm-rf NOOR-FILEX
+rm-rf FILEX-NOOR
 
 git clone https://github.com/Rayeesnoor538/NOOR-FILEX
 
